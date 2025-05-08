@@ -1,0 +1,5 @@
+train: /home/kiki/Music/helm_banyak/dataset/images/train
+val: /home/kiki/Music/helm_banyak/dataset/images/val
+
+nc: 2  # jumlah kelas
+names: ['helm', 'no_helm']  # sesuaikan dengan kelas
